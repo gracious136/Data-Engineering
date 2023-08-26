@@ -1,4 +1,4 @@
-# Data Engineering for Optimal Bike Placement: A Transformative Project**
+# Data Engineering Project: Optimal Bike Placement 
 
 Welcome to my GitHub repository showcasing a comprehensive data engineering project that redefines bike placement strategies using a symphony of technology, innovation, and collaborative insight. In this project, I explore the intersection of Python, SQL, and AWS to revolutionize how a bike rental company optimizes bike placements at airports.
 
